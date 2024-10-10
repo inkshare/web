@@ -7,7 +7,7 @@ bodyClass: page-about
 
 ### About CloudPen Basic
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/about_cloud_pen.webp)
 
 **CloudPen Basic** is an innovative, AI-powered digital ballpoint pen designed to bring the best of both worlds—traditional writing and modern digital convenience. With CloudPen Basic, users can write on **regular paper** while the pen seamlessly digitizes handwritten notes and syncs them directly to the cloud. It's the perfect solution for professionals, students, and businesses that rely on paper-based notes but need digital organization.
 

@@ -8,6 +8,6 @@ intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positi
 intro_image_hide_on_mobile: true
 ---
 
-# InkShare - The Future of Note Taking
+# CloudPen - The Future of Note Taking
 
-InkShare is an innovative AI Powered ballpoint pen designed to enhance your note-taking experience. Effortlessly write on regular paper while our advanced technology instantly digitizes your notes and syncs them to the cloud.
+**CloudPen** is an innovative **AI Powered ballpoint pen** designed to enhance your note-taking experience. Effortlessly write on regular paper while our advanced technology instantly digitizes your notes and syncs them to the cloud.

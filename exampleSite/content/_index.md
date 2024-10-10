@@ -1,27 +1,13 @@
 ---
-title: InkShare - AI-Powered Digital Ballpoint Pen
+title: InkShare
 layout: home
-description: InkShare is an AI-powered pen that writes on regular paper and instantly digitizes notes to the cloud.
-intro_image: "images/illustrations/cloudpen.png"
-intro_image_absolute: true
+description: InkShare is an A Powered pen that writes on regular paper and instantly digitizes notes to the cloud.
+intro_image: "images/illustrations/cloudpen.svg"
+intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
+intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
 intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 
-# InkShare - The Future of Note-Taking
+# InkShare - The Future of Note Taking
 
-**InkShare** is an innovative **AI-powered ballpoint pen** designed to enhance your note-taking experience. Effortlessly write on regular paper while our advanced technology instantly digitizes your notes and syncs them to the cloud.
-
-## Why Choose InkShare?
-
-- **Seamless Integration**: Effortlessly blend traditional writing with modern technology.
-- **Instant Digitization**: No more hassle of manual data entry; your notes are captured in real-time.
-- **Versatile Use**: Perfect for **professionals**, **students**, and **businesses** looking to bridge the gap between analog and digital.
-
-### Features You'll Love
-
-- **Write Anywhere**: Use any paper, from notebooks to loose sheets.
-- **Cloud Sync**: Access your notes from any device, anytime, anywhere.
-- **User-Friendly Design**: A sleek and comfortable design that fits perfectly in your hand.
-
-Join the revolution of note-taking with InkShare, where creativity meets technology. Transform your writing experience today!
+InkShare is an innovative AI Powered ballpoint pen designed to enhance your note-taking experience. Effortlessly write on regular paper while our advanced technology instantly digitizes your notes and syncs them to the cloud.

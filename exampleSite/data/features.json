@@ -1,17 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Write on Any Paper ✍️",
+    "description": "Use regular notebooks, A4, or even scraps of paper—CloudPen works everywhere.",
+    "image": "images/features/pen_writing.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Instant Cloud Sync ☁️",
+    "description": "Your notes are automatically digitized and synced to the cloud in real-time.",
+    "image": "images/features/cloud_sync.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Long Battery Life 🔋",
+    "description": "Ultra-low power design ensures the pen lasts longer without frequent charging.",
+    "image": "images/features/battery.svg"
+  },
+  {
+    "title": "Affordable & Practical 💰",
+    "description": "Designed to be cost-effective without compromising on quality.",
+    "image": "images/features/dollar.svg"
+  },
+  {
+    "title": "AI Handwriting Recognition 🤖",
+    "description": "Advanced AI-powered recognition turns your handwritten notes into digital text.",
+    "image": "images/features/ai.svg"
   }
 ]

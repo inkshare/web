@@ -1,52 +1,33 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: About
+layout: page
+description: About
+bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+### About CloudPen Basic
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
-## Ne verba patulosque numen vix libet
+**CloudPen Basic** is an innovative, AI-powered digital ballpoint pen designed to bring the best of both worlds—traditional writing and modern digital convenience. With CloudPen Basic, users can write on **regular paper** while the pen seamlessly digitizes handwritten notes and syncs them directly to the cloud. It's the perfect solution for professionals, students, and businesses that rely on paper-based notes but need digital organization.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+### Our Mission
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+At **InkShare**, we are dedicated to making the process of **writing, capturing, and storing information** effortless and accessible. We believe in preserving the timeless experience of writing by hand, while using advanced technology to enhance productivity and organization. Our goal is to provide a low-cost, AI-powered solution that simplifies everyday note-taking, whether you’re in the classroom, boardroom, or healthcare setting.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### Why CloudPen Basic?
 
-## Postquam tamen
+CloudPen Basic is more than just a pen:
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+- **Write on any paper**: No need for special paper—use notebooks, A4, or even scraps of paper, and everything is automatically digitized.
+- **Powered by IMU sensors**: Using Inertial Measurement Units (IMUs), the pen captures each stroke, ensuring precise digitization of handwritten notes.
+- **Cloud Sync**: Seamlessly sync notes to popular cloud platforms like Google Drive and OneDrive, keeping your notes organized and accessible.
+- **Affordable & Practical**: Unlike other digital pens that rely on expensive technology, CloudPen Basic offers a cost-effective solution that doesn’t compromise on quality.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### Who is it for?
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+CloudPen Basic is designed for:
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+- **Students** who want to keep digital records of handwritten notes.
+- **Healthcare professionals** who rely on paper for patient notes but need quick digitization.
+- **Businesses** that require fast and efficient ways to capture and organize meeting notes or documents.

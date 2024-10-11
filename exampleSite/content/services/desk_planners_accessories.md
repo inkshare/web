@@ -1,13 +1,16 @@
 ---
 title: "Desk Planners & Accessories"
-description: "Stylish desk planners and accessories to enhance your workspace and productivity."
-intro_image: "images/illustrations/desk_planner.png"
-intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: false
+date: 2024-10-12T12:33:46+10:00
+draft: false
+featured: true
+weight: 1
 ---
 
-# Desk Planners & Accessories
+Stylish desk planners and accessories to enhance your workspace and productivity.
+
+<!--more-->
+
+![Desk Planners & Accessories](images/illustrations/desk_planner.png)
 
 Elevate your workspace with our range of **Desk Planners and Accessories**. From sleek desk planners to handy stationery, we have everything you need to stay organized and focused.
 

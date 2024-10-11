@@ -1,13 +1,16 @@
 ---
 title: "Dated Yearly Planners"
-description: "Organize your life with our dated yearly planners, crafted to keep you on track throughout the year."
-intro_image: "images/illustrations/yearly_planner.webp"
-intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: true
+date: 2024-10-12T12:33:46+10:00
+draft: false
+featured: true
+weight: 1
 ---
 
-# Dated Yearly Planners
+Organize your life with our dated yearly planners, crafted to keep you on track throughout the year
+
+<!--more-->
+
+![Dated Yearly Planners](images/illustrations/yearly_planner.webp)
 
 Stay ahead with our **Dated Yearly Planners**, perfect for individuals who prefer structure and organization. Each planner is designed with care, offering yearly, monthly, and weekly views to help you manage your goals and tasks effectively.
 

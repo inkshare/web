@@ -3,7 +3,6 @@ title: "Services"
 description: "Explore our wide range of services designed to meet your planning and journaling needs."
 intro_image: "images/illustrations/services_overview.svg"
 intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: false
 ---
 

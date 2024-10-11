@@ -1,13 +1,9 @@
 ---
 title: About
-layout: page
-description: About
-bodyClass: page-about
-intro_image: "images/cloudpen.jpg"
-intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: false
+date: 2024-10-12T17:01:34+07:00
 ---
+
+[!CloudPen](images/cloudpen.jpg)
 
 **CloudPen Basic** is an innovative, AI-powered digital ballpoint pen designed to bring the best of both worlds—traditional writing and modern digital convenience. With CloudPen Basic, users can write on **regular paper** while the pen seamlessly digitizes handwritten notes and syncs them directly to the cloud. It's the perfect solution for professionals, students, and businesses that rely on paper-based notes but need digital organization.
 

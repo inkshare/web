@@ -1,13 +1,16 @@
 ---
 title: "Eco-Friendly Journals"
-description: "Eco-friendly journals crafted with sustainable materials to help you stay organized and green."
-intro_image: "images/illustrations/eco_friendly.png"
-intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: false
+date: 2024-10-12T12:33:46+10:00
+draft: false
+featured: true
+weight: 1
 ---
 
-# Eco-Friendly Journals
+Eco-friendly journals crafted with sustainable materials to help you stay organized and green.
+
+<!--more-->
+
+![Eco-Friendly Journals](images/illustrations/eco_friendly.png)
 
 At **InkShare**, we’re committed to sustainability. Our **Eco-Friendly Journals** are made from recycled paper and materials, perfect for those who care about the environment while staying productive.
 

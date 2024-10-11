@@ -1,13 +1,16 @@
 ---
 title: "Undated Planner Journals"
-description: "Flexible, undated planners that let you start anytime. Perfect for those who value freedom in planning."
-intro_image: "images/illustrations/undated_planner.webp"
-intro_image_absolute: true
-intro_image_absolute_offset: "auto auto -100px -80px"
-intro_image_hide_on_mobile: false
+date: 2024-10-12T12:33:46+10:00
+draft: false
+featured: true
+weight: 1
 ---
 
-# Undated Planner Journals
+Flexible, undated planners that let you start anytime. Perfect for those who value freedom in planning.
+
+<!--more-->
+
+![Undated Planner Journals](images/illustrations/undated_planner.webp)
 
 Our **Undated Planner Journals** provide the flexibility to start planning whenever you like, without being tied to a specific date. Ideal for those who prefer a more relaxed and adaptable approach to life.
 

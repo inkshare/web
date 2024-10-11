@@ -18,4 +18,4 @@ Got a question or want to learn more about **CloudPen Basic**? We’d love to he
 
 **Email**: vkosuri@inkshare.in  
 **Phone**: +91-XXXXXXXXXX  
-**Address**: Vahi Software Solutions, Hyderabad, India
+**Address**: Vahi Software Solutions PVT LTD., Hyderabad, India - 500018

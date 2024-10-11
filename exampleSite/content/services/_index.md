@@ -1,11 +1,12 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
-intro_image: "images/illustrations/reading.svg"
+title: "Services"
+description: "Explore our wide range of services designed to meet your planning and journaling needs."
+intro_image: "images/illustrations/services_overview.svg"
 intro_image_absolute: true
+intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services Tailored to Your Needs
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+At **InkShare**, we offer a diverse range of planners, journals, and accessories to suit every lifestyle. From productivity and wellness planners to eco-friendly solutions, our products are designed with you in mind.

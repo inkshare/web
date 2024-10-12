@@ -8,6 +8,10 @@ weight: 2
 
 🌍 **Promote with Purpose**
 
+Choose sustainable promotional products like biodegradable pens and recycled notebooks to enhance your brand's eco-friendly image.
+
+<!--more-->
+
 InkShare offers a full line of **eco-friendly promotional stationery** that not only helps your business stand out but also aligns with sustainability goals. Our promotional products are crafted from environmentally responsible materials, perfect for companies committed to reducing their carbon footprint.
 
 - **Biodegradable Pens:** Made from plant-based plastics or recycled materials.
@@ -16,9 +20,7 @@ InkShare offers a full line of **eco-friendly promotional stationery** that not 
 
 Your business can make a difference by choosing green products, ensuring that your promotional efforts leave a lasting and positive impact on the environment. 🌱
 
-<!--more-->
-
-![Promotional Stationery](/images/eco_friendly_stationery.png)
+![Promotional Stationery](/images/illustrations/eco_friendly_stationery.png)
 
 ## Why Choose Eco-Friendly Stationery?
 
@@ -27,3 +29,6 @@ Your business can make a difference by choosing green products, ensuring that yo
 3. **Unique & Memorable** – Stand out from the crowd with stylish and eco-friendly designs that customers will remember.
 
 InkShare's eco-friendly promotional stationery is perfect for marketing campaigns, corporate events, or any business that values sustainability. 📦
+
+[![Buy on Amazon](https://via.placeholder.com/150x50.png?text=Buy+on+Amazon)](https://www.amazon.in)
+[![Buy on Flipkart](https://via.placeholder.com/150x50.png?text=Buy+on+Flipkart)](https://www.flipkart.com)

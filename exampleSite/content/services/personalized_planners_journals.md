@@ -8,6 +8,10 @@ weight: 1
 
 ✨ **Create Your Own Experience**
 
+Design unique planners and journals that reflect your style with custom covers, paper types, and personalization options.
+
+<!--more-->
+
 At InkShare, we believe that every journal should be as unique as its owner. That’s why we offer a wide variety of customizable options for our planners and journals. Whether you're looking to plan your week, track your goals, or capture personal reflections, we provide everything you need to make it personal.
 
 - **Custom Covers:** Choose from a wide array of designs, textures, and colors.
@@ -16,9 +20,7 @@ At InkShare, we believe that every journal should be as unique as its owner. Tha
 
 These personalized touches make our journals perfect for gifting or personal use. 📝
 
-<!--more-->
-
-![Personalized Journals](/images/special_edition.png)
+![Personalized Journals](/images/illustrations/special_edition.png)
 
 ## Benefits of Personalized Journals
 
@@ -27,3 +29,6 @@ These personalized touches make our journals perfect for gifting or personal use
 3. **Perfect for Gifting** – A personalized journal makes a thoughtful, memorable gift for any occasion.
 
 Start customizing your planner today and turn everyday notes into a personalized experience! 💡
+
+[![Buy on Amazon](https://via.placeholder.com/150x50.png?text=Buy+on+Amazon)](https://www.amazon.in)
+[![Buy on Flipkart](https://via.placeholder.com/150x50.png?text=Buy+on+Flipkart)](https://www.flipkart.com)

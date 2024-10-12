@@ -1,9 +1,9 @@
 ---
 title: "Services"
 description: "Discover personalized planners, journals, and eco-friendly stationery designed for your unique needs."
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/services.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
 # Personalized Products Crafted Just for You

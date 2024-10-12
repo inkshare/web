@@ -1,6 +1,6 @@
 ---
 title: "Malli Kosuri"
-date: 2024-10-12T13:00:00+05:30
+date: 2018-02-22T17:01:34+07:00
 draft: false
 image: "" # Update with the actual image path
 jobtitle: "Founder & Engineer"

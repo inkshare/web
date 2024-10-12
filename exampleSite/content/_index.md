@@ -1,13 +1,15 @@
 ---
 title: InkShare
 layout: home
-description: InkShare is an A Powered pen that writes on regular paper and instantly digitizes notes to the cloud.
+description: "AI Powered Digital Pen & Custom Stationery"
 intro_image: "images/illustrations/cloudpen.svg"
-intro_image_absolute: true # makes the image use css position: absolute; so it looks "offset". It's a visual effect that might not always look good depending on the image you use.
-intro_image_absolute_offset: "auto auto -100px -80px" # used to tweak the positioning of the absolute image if enabled above
+intro_image_absolute: true
+intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: true
 ---
 
-# CloudPen - The Future of Note Taking
+# CloudPen - The Future of Note Taking ✍️
 
-**CloudPen** is an innovative **AI Powered ballpoint pen** designed to enhance your note-taking experience. Effortlessly write on regular paper while our advanced technology instantly digitizes your notes and syncs them to the cloud.
+**CloudPen** is an AI-powered ballpoint pen that effortlessly digitizes your notes as you write on regular paper, syncing them instantly to the cloud.
+
+Experience the perfect blend of tradition and technology with **CloudPen**—the ultimate tool for anyone looking to elevate their note-taking game!

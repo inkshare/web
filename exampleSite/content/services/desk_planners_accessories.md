@@ -18,7 +18,7 @@ Add a touch of elegance to your workspace while keeping it functional and organi
 
 <!--more-->
 
-![Desk Planners](/images/desk-planners.png)
+![Desk Planners](/images/desk_planners.png)
 
 ## Why Desk Planners?
 

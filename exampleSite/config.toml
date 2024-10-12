@@ -43,7 +43,7 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
     meta_og_image = "https://www.inkshare.in/images/inkshare_preview.png"
     meta_description = "InkShare offers AI-powered digital pens and personalized stationery, helping professionals capture, sync, and organize their thoughts effortlessly."
 
-  [params.products]
+  [params.services]
     summary_truncate = 120 # Number charecters
 
   [params.team]
@@ -54,8 +54,8 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
 
 [menu]
   [[menu.main]]
-  name = "Products"
-  url = "/products/"
+  name = "Services"
+  url = "/services/"
   weight = 1
 
   [[menu.main]]

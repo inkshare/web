@@ -18,7 +18,7 @@ Your business can make a difference by choosing green products, ensuring that yo
 
 <!--more-->
 
-![Promotional Stationery](/images/eco-friendly-stationery.png)
+![Promotional Stationery](/images/eco_friendly_stationery.png)
 
 ## Why Choose Eco-Friendly Stationery?
 

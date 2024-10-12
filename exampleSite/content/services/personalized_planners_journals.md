@@ -18,7 +18,7 @@ These personalized touches make our journals perfect for gifting or personal use
 
 <!--more-->
 
-![Personalized Journals](/images/custom-journals.png)
+![Personalized Journals](/images/special_edition.png)
 
 ## Benefits of Personalized Journals
 

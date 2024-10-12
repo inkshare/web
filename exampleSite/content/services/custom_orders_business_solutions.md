@@ -18,7 +18,7 @@ Our custom business solutions help you stay organized while reinforcing your bra
 
 <!--more-->
 
-![Custom Orders](/images/business-solutions.png)
+![Custom Orders](/images/custom_solutions.png)
 
 ## Benefits of Custom Orders:
 

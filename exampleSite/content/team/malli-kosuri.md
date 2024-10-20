@@ -2,11 +2,13 @@
 title: "Malli Kosuri"
 date: 2018-02-22T17:01:34+07:00
 draft: false
-image: "" # Update with the actual image path
+image: "images/team/malli_avatar.jpg"
 jobtitle: "Founder & Engineer"
 weight: 1
 ---
 
-Malli Kosuri is the founder and engineer of **InkShare**, bringing over 16 years of development experience and a passion for innovation. With expertise in identifying technologies and suggesting viable solutions, Malli is dedicated to creating high-quality products that bridge the gap between analog and digital experiences.
+**Malli Kosuri** is the visionary behind **InkShare**, combining over 16 years of development experience with a deep passion for innovation and technology. As the Founder and Lead Engineer, Malli has a unique ability to identify cutting-edge technologies, suggest viable solutions, and seamlessly merge analog and digital experiences through products like the **AI Ink Pen** and **personalized disbound journals and notebooks**.
 
-At InkShare, Malli leads the vision to offer personalized journals, planners, and eco-friendly stationery, all while focusing on customer needs and sustainability. Outside of work, Malli enjoys exploring new ideas in technology and design.
+Malli’s leadership at InkShare is driven by a commitment to creating high-quality, eco-friendly products that not only meet customer needs but also promote sustainability. With expertise in both software and hardware, Malli ensures that every InkShare product is designed with precision, practicality, and innovation in mind.
+
+When not leading product development at InkShare, Malli enjoys exploring the latest trends in AI, technology, and creative design.

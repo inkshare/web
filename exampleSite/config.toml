@@ -2,7 +2,7 @@ baseURL = "https://www.inkshare.in"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "InkShare - AI Powered Digital Pen & Custom Stationery"
+title = "InkShare - AI Powered Digital Pen & Disbound Stationery"
 
 [module]
   [module.hugoVersion]
@@ -19,9 +19,9 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
     show_services_button = true
 
   [params.logo]
-    mobile = "images/logo/logo.svg"
+    mobile = "images/logo/inkshare-1.png"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/inkshare-1.png"
     desktop_height = "36px"
     alt = "InkShare - Write, Share Anywhere"
 
@@ -31,7 +31,7 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#ed725f"  # Orange
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -41,7 +41,7 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
     meta_twitter_site = "@inkshare"
     meta_twitter_creator = "@_InkShare"
     meta_og_image = "https://www.inkshare.in/images/inkshare_preview.png"
-    meta_description = "InkShare offers AI-powered digital pens and personalized stationery, helping professionals capture, sync, and organize their thoughts effortlessly."
+    meta_description = "InkShare offers AI-powered digital pens and disbound stationery, helping professionals capture, sync, and organize their thoughts effortlessly."
 
   [params.services]
     summary_truncate = 120 # Number charecters
@@ -54,8 +54,8 @@ title = "InkShare - AI Powered Digital Pen & Custom Stationery"
 
 [menu]
   [[menu.main]]
-  name = "Services"
-  url = "/services/"
+  name = "Products"
+  url = "/products/"
   weight = 1
 
   [[menu.main]]

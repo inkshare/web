@@ -8,8 +8,8 @@ intro_image_absolute_offset: "auto auto -100px -80px"
 intro_image_hide_on_mobile: true
 ---
 
-# CloudPen - The Future of Note Taking ✍️
+# AI Ink Pen - The Future of Note Taking ✍️
 
-**CloudPen** is an AI-powered ballpoint pen that effortlessly digitizes your notes as you write on regular paper, syncing them instantly to the cloud.
+**AI Ink Pen** is an AI-powered ballpoint pen that effortlessly digitizes your notes as you write on regular paper, syncing them instantly to the cloud.
 
-Experience the perfect blend of tradition and technology with **CloudPen**—the ultimate tool for anyone looking to elevate their note-taking game!
+Experience the perfect blend of tradition and technology with **AI Ink Pen**—the ultimate tool for anyone looking to elevate their note-taking game!

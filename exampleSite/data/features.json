@@ -1,27 +1,32 @@
 [
   {
     "title": "Write on Any Paper ✍️",
-    "description": "Use regular notebooks, A4, or even scraps of paper—CloudPen works everywhere.",
+    "description": "Use regular notebooks, A4, or even scraps of paper—InkShare works everywhere.",
     "image": "images/features/pen_writing.svg"
   },
   {
     "title": "Instant Cloud Sync ☁️",
-    "description": "Your notes are automatically digitized and synced to the cloud in real-time.",
+    "description": "Automatically digitizes and syncs your notes to the cloud in real-time.",
     "image": "images/features/cloud_sync.svg"
   },
   {
     "title": "Long Battery Life 🔋",
-    "description": "Ultra-low power design ensures the pen lasts longer without frequent charging.",
+    "description": "Ultra-low power design ensures extended usage without frequent recharging.",
     "image": "images/features/battery.svg"
   },
   {
-    "title": "Affordable & Practical 💰",
-    "description": "Designed to be cost-effective without compromising on quality.",
-    "image": "images/features/dollar.svg"
+    "title": "Hybrid Functionality ✨",
+    "description": "Seamlessly switch between traditional writing on paper and digital stylus mode.",
+    "image": "images/features/hybrid_pen.svg"
   },
   {
     "title": "AI Handwriting Recognition 🤖",
-    "description": "Advanced AI-powered recognition turns your handwritten notes into digital text.",
+    "description": "AI-powered handwriting recognition converts handwritten notes to digital text.",
     "image": "images/features/ai.svg"
+  },
+  {
+    "title": "Affordable & Practical 💰",
+    "description": "A cost-effective solution designed for quality without compromise.",
+    "image": "images/features/dollar.svg"
   }
 ]

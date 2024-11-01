@@ -20,6 +20,11 @@
     "image": "images/features/hybrid_stylus.svg"
   },
   {
+    "title": "Anti-Leak Ink Technology 💧",
+    "description": "Specially designed refills with controlled ink flow prevent leakages even in shirt pockets.",
+    "image": "images/features/anti_leak.svg"
+  },
+  {
     "title": "AI Handwriting Recognition 🤖",
     "description": "AI-powered handwriting recognition converts handwritten notes to digital text.",
     "image": "images/features/ai.svg"

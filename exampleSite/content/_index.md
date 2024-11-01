@@ -13,4 +13,6 @@ intro_image_hide_on_mobile: true
 **Write. Sync. Organize.**  
 Imagine a pen that instantly digitizes each note, capturing ideas directly to the cloud.
 
-Experience the blend of handwriting’s simplicity and digital convenience with AI Ink Pen.
+Experience the blend of handwriting’s simplicity and digital convenience with **AI Ink Pen**.
+
+👇 **See features below** 👇

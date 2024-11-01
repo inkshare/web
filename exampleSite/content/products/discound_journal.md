@@ -11,7 +11,7 @@ weight: 1
 
 <!--more-->
 
-![Discbound Stationery](/images/illustrations/study-from-books.svg)
+![Disbound Stationery](/images/illustrations/study-from-books.svg)
 
 ## Key Features:
 

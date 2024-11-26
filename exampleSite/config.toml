@@ -2,7 +2,7 @@ baseURL = "https://www.inkshare.in"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "InkShare - AI Powered Digital Pen & Disbound Stationery"
+title = "InkShare AI - AI-Powered Digital Pen & Custom Disbound Stationery"
 
 [module]
   [module.hugoVersion]
@@ -23,7 +23,7 @@ title = "InkShare - AI Powered Digital Pen & Disbound Stationery"
     mobile_height = "36px"
     desktop = "images/logo/inkshare-1.png"
     desktop_height = "36px"
-    alt = "InkShare - Write, Share Anywhere"
+    alt = "InkShare - Write, Share, Innovate"
 
   [params.fonts]
     google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
@@ -31,7 +31,7 @@ title = "InkShare - AI Powered Digital Pen & Disbound Stationery"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#ed725f"  # Orange
+    primary = "#4b0082"  # Indigo
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -41,44 +41,71 @@ title = "InkShare - AI Powered Digital Pen & Disbound Stationery"
     meta_twitter_site = "@inkshare"
     meta_twitter_creator = "@_InkShare"
     meta_og_image = "https://www.inkshare.in/images/inkshare_preview.png"
-    meta_description = "InkShare offers AI-powered digital pens and disbound stationery, helping professionals capture, sync, and organize their thoughts effortlessly."
+    meta_description = "Revolutionize note-taking with InkShare AI. Discover our AI-powered digital pen and custom stationery designed for students, professionals, and creators."
+    meta_keywords = "AI pen, digital pen, handwriting recognition, note-taking, InkShare, cloud sync, IMU data"
 
-  [params.services]
-    summary_truncate = 120 # Number charecters
+  [params.cta]
+    title = "Discover the Future of Note-Taking"
+    description = "Revolutionize how you take notes with InkShare AI Pen. Write on any paper, sync to the cloud, and experience AI-powered handwriting recognition."
+    button_text = "Shop Now"
+    button_url = "/products/"
+
+  [params.products]
+    enable_featured = true
+    summary_truncate = 100
+    featured_products = [
+      { title = "AI Ink Pen", description = "Revolutionize note-taking with our AI-powered digital pen.", image = "images/products/ai_ink_pen.jpg", url = "/products/ai-ink-pen/" },
+      { title = "Custom Disbound Stationery", description = "Durable and versatile stationery designed for your AI Pen.", image = "images/products/disbound_stationery.jpg", url = "/products/disbound-stationery/" }
+    ]
 
   [params.team]
-    summary_large_truncate = 120 # Number charecters
+    summary_large_truncate = 100
 
   [params.footer]
-    copyright_text = 'InkShare @2024 <a class="zerostatic" href="https://www.inkshare.in">www.inkshare.in</a>'
+    copyright_text = 'InkShare AI © 2024 <a class="zerostatic" href="https://www.inkshare.in">www.inkshare.in</a>'
+    social_links = [
+      { name = "Twitter", url = "https://twitter.com/_InkShare", icon = "fa-twitter" },
+      { name = "GitHub", url = "https://github.com/inkshare/imu2text", icon = "fa-github" },
+      { name = "LinkedIn", url = "https://linkedin.com/company/inkshare", icon = "fa-linkedin" }
+    ]
 
 [menu]
   [[menu.main]]
-  name = "Products"
-  url = "/products/"
-  weight = 1
+    name = "Products"
+    url = "/products/"
+    weight = 1
 
   [[menu.main]]
-  name = "Team"
-  url = "/team/"
-  weight = 2
+    name = "Team"
+    url = "/team/"
+    weight = 2
 
   [[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = 3
+    name = "About"
+    url = "/about/"
+    weight = 3
 
   [[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 4
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
 
   [[menu.footer]]
-  name = "Home"
-  url = "/"
-  weight = 1
+    name = "Home"
+    url = "/"
+    weight = 1
 
   [[menu.footer]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 2
+    name = "Products"
+    url = "/products/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/inkshare/imu2text"
+    weight = 4

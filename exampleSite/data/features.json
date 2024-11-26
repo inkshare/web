@@ -33,5 +33,10 @@
     "title": "Affordable & Practical 💰",
     "description": "A cost-effective solution designed for quality without compromise.",
     "image": "images/features/dollar.svg"
-  }
+  },
+  {
+    "title": "Privacy & Security 🔒",
+    "description": "Your notes are encrypted and stored securely, ensuring privacy and data safety.",
+    "image": "images/features/security.svg"
+  }  
 ]
